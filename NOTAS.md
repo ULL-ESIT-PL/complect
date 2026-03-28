@@ -76,3 +76,10 @@ Al final co  LLVM 14 parece que se completa la instalación
 Lo he intentado en un codespace de GitHub y no ha funcionado.
 
 No puedes instalar LLVM 14 directamente con apt en Ubuntu 24.04 (noble) porque el repositorio no existe. Debes compilar desde fuente, usar paquetes de otra versión, o usar un contenedor.
+
+## References
+
+* What Is LLVM?https://www.youtube.com/watch?v=HecW5byOrUY&list=PLDSTpI7ZVmVnvqtebWnnI8YeB8bJoGOyv by CompilersLaboratory
+* Watch "Programming Language with LLVM [1/20] Introduction to LLVM IR and tools" by Dmitry Soshnikov at https://youtu.be/Lvc8qx8ukOI?si=u-toTGVKTV7sHguw 
+* See the list of LLVM videos by Dmitry Soshnikov at https://www.youtube.com/@DmitrySoshnikov-education/search?query=LLVM
+

@@ -68,8 +68,10 @@ When using the LLVM backend, Complect generates LLVM Intermediate Representation
 
 ```bash
 # Generate LLVM IR
+npm link
+cd fixtures
 complect --file fib --backend llvm --output fib.ll
-
+lli fib.ll # Run with LLVM's JIT interpreter
 # Compile to assembly (for inspection)
 llc fib.ll -o fib.s
 
