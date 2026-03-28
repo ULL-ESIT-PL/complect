@@ -4,3 +4,4 @@ node_modules
 *.s
 /output
 *.vsix
+**/.DS_Store

@@ -4,10 +4,13 @@ This is a VS Code extension that provides comprehensive language support for the
 
 ## Installation
 
-1. Open VS Code
-2. Go to Extensions (Ctrl+Shift+X)
-3. Click the "..." menu and select "Install from VSIX"
-4. Navigate to this `vscode-extension` folder and select the `.vsix` file
+1. cd to the `vscode-extension` folder
+2. Run `npm install` to install dependencies
+3. Run `npx @vscode/vsce package --allow-missing-repository` to create the `.vsix` package
+4. Open VS Code
+5. Go to Extensions (Ctrl+Shift+X)
+6. Click the "..." menu and select "Install from VSIX"
+7. Navigate to this `vscode-extension` folder and select the `.vsix` file
 
 Or from the command line:
 ```bash
