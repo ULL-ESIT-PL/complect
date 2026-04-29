@@ -12,6 +12,7 @@ https://github.com/ApsarasX/llvm-bindings?tab=readme-ov-file#custom-llvm-install
 
 ## Notas de brew 
 
+```
 To use the bundled libc++ please add the following LDFLAGS:
   LDFLAGS="-L/usr/local/opt/llvm@14/lib/c++ -Wl,-rpath,/usr/local/opt/llvm@14/lib/c++"
 
