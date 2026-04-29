@@ -80,10 +80,9 @@ https://github.com/ApsarasX/llvm-bindings/issues/54
 ### Funciona?
 
 Al final con  LLVM 14 parece que se completa la instalación
-
-Lo he intentado (LLVM 14)en un codespace de GitHub y no ha funcionado a la primera.
-
-No puedes instalar LLVM 14 directamente con apt en Ubuntu 24.04 (noble) porque el repositorio no existe. Debes compilar desde fuente, usar paquetes de otra versión, o usar un contenedor.
+He intentado instalar LLVM 14 en un codespace de GitHub y no ha funcionado a la primera.
+No puedes instalar LLVM 14 directamente con apt en Ubuntu 24.04 (noble) porque el repositorio no existe. 
+Debes compilar desde fuente, usar paquetes de otra versión, o usar un contenedor.
 
 ## References
 
