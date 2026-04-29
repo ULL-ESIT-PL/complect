@@ -79,7 +79,7 @@ https://github.com/ApsarasX/llvm-bindings/issues/54
 
 ### Funciona?
 
-Al final co  LLVM 14 parece que se completa la instalación
+Al final con  LLVM 14 parece que se completa la instalación
 
 Lo he intentado (LLVM 14)en un codespace de GitHub y no ha funcionado a la primera.
 
