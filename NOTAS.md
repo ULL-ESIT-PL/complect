@@ -89,4 +89,5 @@ Debes compilar desde fuente, usar paquetes de otra versión, o usar un contenedo
 * Mis notas sobre complect en el tutorial de LLVM: https://github.com/ULL-ESIT-PL/hello-llvm/blob/main/docs/related-work/complect.md
 * Referencias en nuestro tutorial de LLVM: https://github.com/ULL-ESIT-PL/hello-llvm/tree/main#references
 * Script para elegir entre versiones de llvm: https://github.com/ULL-ESIT-PL/hello-llvm/blob/main/llvm-version.sh
+* Instalacion de LLVM en el tutorial: https://github.com/ULL-ESIT-PL/hello-llvm/blob/main/docs/syntax/README.md
 
