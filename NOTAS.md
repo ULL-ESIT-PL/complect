@@ -4,7 +4,7 @@ La instalación de [llvm-bindings](https://www.npmjs.com/package/llvm-bindings) 
 con la versión actual de LLVM. 
 La versión de llvm que hay que instalar es la 14.
 
-## Instalación en macOS:
+## Instalación de LLVM 14 en macOS:
 
 brew install cmake llvm@14
 npm install llvm-bindings
