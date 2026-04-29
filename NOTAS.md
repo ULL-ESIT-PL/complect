@@ -44,6 +44,9 @@ export CPPFLAGS="$CPPFLAGS -I/usr/local/opt/llvm@14/include"
 export CMAKE_PREFIX_PATH="/usr/local/opt/llvm@14"% 
 ```
 
+Script para elegir entre versiones de llvm: https://github.com/ULL-ESIT-PL/hello-llvm/blob/main/llvm-version.sh
+
+
 ## Error installing llvm-bindings
 
 When trying to install llvm-bindings, I got the following error:
@@ -82,4 +85,5 @@ No puedes instalar LLVM 14 directamente con apt en Ubuntu 24.04 (noble) porque e
 
 * Mis notas sobre complect en el tutorial de LLVM: https://github.com/ULL-ESIT-PL/hello-llvm/blob/main/docs/related-work/complect.md
 * Referencias en nuestro tutorial de LLVM: https://github.com/ULL-ESIT-PL/hello-llvm/tree/main#references
+* Script para elegir entre versiones de llvm: https://github.com/ULL-ESIT-PL/hello-llvm/blob/main/llvm-version.sh
 
